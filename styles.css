@@ -1,0 +1,71 @@
+.navbar-brand {
+  font-family: "Lobster", cursive;
+  font-size: 1.75rem;
+}
+
+.intro {
+  font-family: "Lobster", cursive, sans-serif;
+}
+
+.name {
+  font-size: 3rem;
+}
+
+.job {
+  font-size: 1rem;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
+.title {
+  padding-top: 150px;
+  text-align: center;
+}
+
+img {
+  float: left;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 30%;
+}
+
+.section-title {
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.description-content {
+  padding: 50px 150px 50px 80px;
+}
+
+.skills-bar {
+  padding: 40px 20px 100px 50%;
+}
+
+.skills-desc {
+  padding-top: 100px;
+  padding-right: 150px;
+}
+
+.skills-title {
+  padding-top: 20px;
+}
+
+.experience-description {
+  padding: 100px 100px 50px 100px;
+}
+
+.job-logo {
+  margin-left: 70%;
+  padding-top: 60px;
+  width: 10%;
+}
+
+.job-description {
+  padding: 40px 200px 0px 0px;
+}
+
+hr {
+  color: rgb(63, 61, 61);
+}
